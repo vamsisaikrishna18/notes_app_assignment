@@ -1,0 +1,18 @@
+.login-btn{
+    margin: 10px;
+    background-color: green;
+    border-radius: 5px;
+    border-width: 0;
+    color: whitesmoke;
+    text-align: center;
+    height: 30px;
+}
+.signup-btn{
+    margin: 10px;
+    background-color: rgb(19, 122, 182);
+    border-radius: 5px;
+    border-width: 0;
+    color: whitesmoke;
+    text-align: center;
+    height: 30px;
+}
